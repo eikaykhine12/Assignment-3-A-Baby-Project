@@ -18,6 +18,7 @@ By incorporating these elements, the dataset can help answer key questions such 
 - Can engagement trends be predicted based on audience size and posting behavior?
 
 **Project Summary**
+
 This project aims to uncover patterns in social media engagement by analyzing a dataset enriched with user-level data. The integration of username and follower count allows for a more detailed exploration of content virality, audience behavior, and influencer impact. The findings from this dataset can guide businesses in refining content strategies, optimizing ad campaigns, and enhancing social media outreach efforts.
 Potential applications of this dataset include:
 - Identifying the best times to post for maximum engagement
